@@ -8,3 +8,11 @@ Why might you want to always pull changes manually rather than having Git automa
 	to have the freedom of choice which commits be in the project and which not
 	and to prevent the project from corruption.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	forks: is an online copy of a repository on GitHub.
+	clones: is a local copy of online repository.
+	branches: is a copy of the repository in the repository to test new features
+	without messing up with the original and when it ready merge it to master. 
+	When to use it in situations like described before.
+
+
