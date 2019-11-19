@@ -15,4 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	without messing up with the original and when it ready merge it to master. 
 	When to use it in situations like described before.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+	to have the ability of see the changed others did in the remote and choice to	
+	add it or not to my local repo.
