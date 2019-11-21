@@ -19,3 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	to have the ability of see the changed others did in the remote and choice to	
 	add it or not to my local repo.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	The easiest way to work on shared project in local network at the same time,
+	the hardest would be working and uploading the whole project to a website or
+	just upload the changed file and other developers downloaded and updated there own.
