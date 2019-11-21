@@ -24,3 +24,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	The easiest way to work on shared project in local network at the same time,
 	the hardest would be working and uploading the whole project to a website or
 	just upload the changed file and other developers downloaded and updated there own.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When i want to test a new feature it's allows a good idea to test it in other	
+	branch than master so things don't get messed up.
